@@ -1,0 +1,1 @@
+Jogo básico de adivinhar o número pensado.
