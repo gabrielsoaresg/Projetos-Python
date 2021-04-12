@@ -1,0 +1,1 @@
+Programa que simula uma caixa registradora.
